@@ -1,6 +1,5 @@
 #----------------------Script Below--------------------
-from amino import Client
-from amino import SubClient
+import amino
 from amino.lib.util.exceptions import *
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime
