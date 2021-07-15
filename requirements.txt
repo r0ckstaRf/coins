@@ -1,5 +1,4 @@
 amino
-os
 json
 datetime
 concurrent.futures
