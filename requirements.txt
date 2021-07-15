@@ -1,4 +1,4 @@
-amino 1.2.17
+amino
 os
 json
 datetime
